@@ -17,8 +17,6 @@ To help supermarkets achieve their goals for growth, efficiency, and customer sa
 ##Interactive Dashboard
 
 ## Sales Forecasting for the next 15 Days
-
-![Forcast Data](Screenshots & videos/Forecast.png)
 Forecasting is an important tool that helps businesses plan and make informed decisions about their future sales strategies and resource allocation. One way to do this is by predicting the sales and revenue of a superstore using historical data from 2019 and 2020.
 
 ## Project Insights
