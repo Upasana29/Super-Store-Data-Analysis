@@ -25,7 +25,7 @@ To help supermarkets achieve their goals for growth, efficiency, and customer sa
 Forecasting is an important tool that helps businesses plan and make informed decisions about their future sales strategies and resource allocation. One way to do this is by predicting the sales and revenue of a superstore using historical data from 2020 and 2021.
 
 ## Project Insights
-The sales total for this period was 2 million, resulting in a profit of 175k. Unfortunately, there were 5901 product returns.
+The sales total for this period was 522.4K, resulting in a profit of 67.9k and Average Delivery time is 4 Days.
 The profit was divided by category and segment, with the technology category being the most profitable and the corporate segment generating the most profit.
 Based on our analysis of profit across different regions, it appears that the western region is the most profitable. However, it's important to note that profitability can vary based on a number of factors and it's always important to consider the specific circumstances in each case.
 
