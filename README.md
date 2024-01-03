@@ -1,5 +1,5 @@
 # Superstore-Sales-Dashboard-Using-Power-Bi
-![Interactive Dashboard ](Dashboard.png)
+
 The interactive dashboard is designed to be used by retailers and provide them with a high-level to granular understanding of how different products perform. It provides an overview of total sales, with the ability to showcase yearly, quarterly, and monthly growth rates.
 ## Objective
 To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting.
@@ -17,7 +17,8 @@ To help supermarkets achieve their goals for growth, efficiency, and customer sa
 ##Interactive Dashboard
 
 ## Sales Forecasting for the next 15 Days
-![next 15 Days Forecast](forecast.png)
+
+![Forcast Data](Screenshots & videos/Forecast.png)
 Forecasting is an important tool that helps businesses plan and make informed decisions about their future sales strategies and resource allocation. One way to do this is by predicting the sales and revenue of a superstore using historical data from 2019 and 2020.
 
 ## Project Insights
