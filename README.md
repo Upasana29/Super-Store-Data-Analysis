@@ -5,17 +5,17 @@ To contribute to the success of a business by utilizing data analysis techniques
 ## Process
 To help supermarkets achieve their goals for growth, efficiency, and customer satisfaction, I can assist in several ways.
 
-I can help identify key performance indicators (KPIs) and design an intuitive and visually appealing dashboard. This dashboard can include interactive visualizations and filtering capabilities, allowing users to explore data at different levels of detail.
+-  I can help identify key performance indicators (KPIs) and design an intuitive and visually appealing dashboard. This dashboard can include interactive visualizations and filtering capabilities, allowing users to explore data at different levels of detail.
 
-I can provide valuable insights to businesses about the effectiveness of their sales strategies through charts and visualizations. This will help them make informed decisions about how to improve their sales performance.
+-  I can provide valuable insights to businesses about the effectiveness of their sales strategies through charts and visualizations. This will help them make informed decisions about how to improve their sales performance.
 
-I can leverage historic data and apply time series analysis to generate sales forecasts for the next 6 months. This will provide businesses with a better understanding of future sales trends, allowing them to plan and prepare accordingly.
+-  I can leverage historic data and apply time series analysis to generate sales forecasts for the next 6 months. This will provide businesses with a better understanding of future sales trends, allowing them to plan and prepare accordingly.
 
-Overall, my ultimate goal is to provide useful insights and actionable information that can support strategic decision-making and help businesses achieve their objectives.
+-  Overall, my ultimate goal is to provide useful insights and actionable information that can support strategic decision-making and help businesses achieve their objectives.
 
 ##Interactive Dashboard
 
-Sales Forecasting for the next 6 months
+## Sales Forecasting for the next 15 Days
 Forecasting is an important tool that helps businesses plan and make informed decisions about their future sales strategies and resource allocation. One way to do this is by predicting the sales and revenue of a superstore using historical data from 2019 and 2020.
 
 ## Project Insights
