@@ -14,10 +14,15 @@ To help supermarkets achieve their goals for growth, efficiency, and customer sa
 
 -  Overall, my ultimate goal is to provide useful insights and actionable information that can support strategic decision-making and help businesses achieve their objectives.
 
-##Interactive Dashboard
+
+## Interactive Dashboard
+<img width="770" alt="Dashboard" src="https://github.com/Upasana29/Super-Store-Data-Analysis/assets/76819353/26bb73ba-0dd9-4b2c-9514-bf696c808df3">
 
 ## Sales Forecasting for the next 15 Days
-Forecasting is an important tool that helps businesses plan and make informed decisions about their future sales strategies and resource allocation. One way to do this is by predicting the sales and revenue of a superstore using historical data from 2019 and 2020.
+
+<img width="735" alt="forcast" src="https://github.com/Upasana29/Super-Store-Data-Analysis/assets/76819353/36ca936e-dee4-460a-95e6-674c3c963af4">
+
+Forecasting is an important tool that helps businesses plan and make informed decisions about their future sales strategies and resource allocation. One way to do this is by predicting the sales and revenue of a superstore using historical data from 2020 and 2021.
 
 ## Project Insights
 The sales total for this period was 2 million, resulting in a profit of 175k. Unfortunately, there were 5901 product returns.
